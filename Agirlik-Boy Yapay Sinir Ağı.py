@@ -44,6 +44,6 @@ if __name__ == "__main__":
   for i in range(prediction.shape[0]):
     print(f'Prediction: {prediction[i, 0]:.4f}, Target: {targets[i, 0]:.4f}')
     
-  @sehmusbulut
+  #sehmusbulut
   
   
