@@ -13,4 +13,5 @@ def matrix_3d(m, n, p):
     return matrix
 
 print(matrix_3d(3,3,3)) #çıktı
+
 @sehmusbulut
