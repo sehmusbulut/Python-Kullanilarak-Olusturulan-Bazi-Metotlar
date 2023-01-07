@@ -11,4 +11,6 @@ def matrix_3d(m, n, p):
                 # Örneğin, her elemanı 0 olarak ayarlayabilirsiniz:
                 matrix[i][j].append(0)
     return matrix
+
+print(matrix_3d(3,3,3)) #çıktı
 @sehmusbulut
